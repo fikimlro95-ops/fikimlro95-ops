@@ -12,8 +12,8 @@
 [![My tools](https://skillicons.dev/icons?i=androidstudio,vscode,figma,blender,github&perline=3)](https://skillicons.dev)
 
 ### GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=fikimlro95-ops&theme=dark&bg_color=000000&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=fikimlro95-ops&theme=dark&background=000000&hide_border=false)<br/>
+
+![](https://streak-stats.demolab.com/?user=fikimlro95-ops&theme=dark&background=000000&hide_border=false)
 
 <table>
   <tr>
