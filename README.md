@@ -14,6 +14,8 @@
 ### GitHub Stats:
 
 <div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=fikimlro95-ops&theme=dark&bg_color=000000&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=fikimlro95-ops&theme=dark&background=000000&hide_border=false" alt="Streak Stats" />
   <br/><br/>
   <table align="center">
