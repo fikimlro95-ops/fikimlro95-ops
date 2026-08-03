@@ -13,18 +13,20 @@
 
 ### GitHub Stats:
 
-![](https://streak-stats.demolab.com/?user=fikimlro95-ops&theme=dark&background=000000&hide_border=false)
-
-<table>
-  <tr>
-    <td valign="top" style="border: none;">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fikimlro95-ops&theme=dark&bg_color=000000&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
-    </td>
-    <td valign="top" style="border: none;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5ndXFhc3d6dnRrdTN3NjdzOGgzZmpweTlxNmptOHNoanRzZHJ2MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mD5SAK2BV0aTFIZdeO/giphy.gif" alt="this me" height="165" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=fikimlro95-ops&theme=dark&background=000000&hide_border=false" alt="Streak Stats" />
+  <br/><br/>
+  <table align="center">
+    <tr>
+      <td valign="top" style="border: none;">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fikimlro95-ops&theme=dark&bg_color=000000&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
+      </td>
+      <td valign="top" style="border: none;">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5ndXFhc3d6dnRrdTN3NjdzOGgzZmpweTlxNmptOHNoanRzZHJ2MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mD5SAK2BV0aTFIZdeO/giphy.gif" alt="this me" height="165" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fikimlro95-ops/fikimlro95-ops/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
