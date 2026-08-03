@@ -1,5 +1,5 @@
 <div data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&text=Hi%20there,%20I'm%20Moh%20Rofiki!&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=40&color=gradient" alt="Hi there, I'm Moh Rofiki!" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&text=𝙃𝙞%20𝙩𝙝𝙚𝙧𝙚,%20𝙄'𝙢%20𝙈𝙤𝙝%20𝙍𝙤𝙛𝙞𝙠𝙞!&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=40&color=gradient&animation=blink" alt="Hi there, I'm Moh Rofiki!" />
 </div>
 
 Saya adalah seorang mahasiswa program studi Teknik Informatika di Universitas Islam Madura yang menaruh minat mendalam pada pengembangan perangkat lunak dan penciptaan elemen visual yang interaktif. Fokus utama saya saat ini adalah mengembangkan berbagai aplikasi mobile dengan memanfaatkan kerangka kerja Flutter, sekaligus membangun antarmuka web yang fungsional menggunakan HTML, CSS, dan JavaScript. Selain itu, saya juga memiliki pemahaman yang baik dalam menggunakan bahasa pemrograman Python untuk mengelola logika pemrograman tingkat lanjut dan menyelesaikan berbagai tantangan komputasi.
