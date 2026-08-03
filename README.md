@@ -1,11 +1,13 @@
-# Hi there, I'm Moh Rofiki! 🕸️
+<div data-importer="border">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&text=Hi%20there,%20I'm%20Moh%20Rofiki!&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=40&color=gradient" alt="Hi there, I'm Moh Rofiki!" />
+</div>
 
 Saya adalah seorang mahasiswa program studi Teknik Informatika di Universitas Islam Madura yang menaruh minat mendalam pada pengembangan perangkat lunak dan penciptaan elemen visual yang interaktif. Fokus utama saya saat ini adalah mengembangkan berbagai aplikasi mobile dengan memanfaatkan kerangka kerja Flutter, sekaligus membangun antarmuka web yang fungsional menggunakan HTML, CSS, dan JavaScript. Selain itu, saya juga memiliki pemahaman yang baik dalam menggunakan bahasa pemrograman Python untuk mengelola logika pemrograman tingkat lanjut dan menyelesaikan berbagai tantangan komputasi.
 
 Tidak hanya berkutat pada penulisan kode, saya juga menggabungkan ketertarikan saya di bidang teknologi dengan perancangan antarmuka pengguna (UI/UX) yang intuitif melalui alat desain seperti Figma dan Canva. Di ranah pengembangan visual lainnya, saya sangat menikmati proses pembuatan aset 3D berkonsep low-poly menggunakan perangkat lunak Blender. Aset-aset tersebut biasanya saya pelajari lebih lanjut untuk diintegrasikan ke dalam Godot Engine dalam rangka pengembangan permainan interaktif. Saya selalu antusias untuk terus memperluas wawasan terhadap teknologi baru dan sangat terbuka terhadap setiap peluang kolaborasi, baik dalam pengembangan aplikasi maupun proyek-proyek kreatif lainnya.
 
 
-### 🌐 Socials:
+###  Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Vafurooo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fikimlro95@gmail.com) 
 
 ### Skils:
